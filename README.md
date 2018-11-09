@@ -1,6 +1,4 @@
-# 불법 스포트도박 근절 해커톤
-
-##Team 후사삭
+# Vue.js ( vue-cli ) Setting
 
 > A Vue.js project
 
